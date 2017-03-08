@@ -2,7 +2,7 @@
 
 ![](http://ichef.bbci.co.uk/news/624/cpsprodpb/10C84/production/_94904786_chart_buslanetops-1.png)
 
-In March 2017 we ]published a story on fines for driving in a bus lane](http://www.bbc.co.uk/news/uk-england-38957371): 
+In March 2017 we [published a story on fines for driving in a bus lane](http://www.bbc.co.uk/news/uk-england-38957371): 
 
 > "Almost 4,000 motorists a day are fined for driving in bus lanes, with the most lucrative camera making £6,000 every 24 hours."
 
