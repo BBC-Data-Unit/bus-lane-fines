@@ -33,6 +33,7 @@ The story was widely followed up by local newspapers and broadcast media, includ
 
 * [Google Sheet: FOI response data - income, notices and time covered by council](https://docs.google.com/spreadsheets/d/1nRe3JgdvY5e9d-m56Q1I5JKRD-cBkjPRkhE3V3sfkLg/edit#gid=0)
 * [Same FOI response data - income, notices and time covered by council - in CSV format](https://github.com/BBC-Data-Unit/bus-lane-fines/blob/master/Bus%20lane%20cameras%20FOI%20data.csv)
+* You can [see the original FOI request, plus an explanation about why we chose to use FOI, here](https://github.com/BBC-Data-Unit/bus-lane-fines/blob/master/FOI-request.md)
 
 ## Visualisation
 
