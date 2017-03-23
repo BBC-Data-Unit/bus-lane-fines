@@ -1,0 +1,27 @@
+.demo {
+  background-color: #f2f2f5;
+  border-width: 1px 1px 0px 1px;
+  border-color: #c9cbd3;
+  border-style: solid;
+}
+.demo td {
+  color: #000;
+  font-family: Tahoma, Helvetika, sans-serif;
+  font-size: 14px;
+  background-color: #eaef5;
+  padding: 8px;
+  background-color: #f2f2f5;
+  border-color: #ffffff #ffffff #cccccc #ffffff;
+  border-style: solid solid solid solid;
+  border-width: 1px 0px 1px 0px;
+}
+.demo th {
+  font-family: Tahoma, Arial, sans-serif;
+  font-size: 14px;
+  padding: 8px;
+  background-color: #cfe0f1;
+  border-color: #ffffff #ffffff #cccccc #ffffff;
+  border-style: solid solid solid none;
+  border-width: 1px 0 1px 0;
+  white-space: nowrap;
+}
