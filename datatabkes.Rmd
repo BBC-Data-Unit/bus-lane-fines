@@ -1,0 +1,17 @@
+---
+title: "datatables"
+author: "Paul Bradshaw"
+date: "24 March 2017"
+output: html_document
+---
+
+# Using the DT package to create searchable JavaScript tables
+
+[Instructions here](https://rstudio.github.io/DT/):
+
+> "The R package DT provides an R interface to the JavaScript library DataTables. R data objects (matrices or data frames) can be displayed as tables on HTML pages, and DataTables provides filtering, pagination, sorting, and many other features in the tables."
+
+```{r setup, include=FALSE}
+install.packages('DT')
+library(DT)
+```
